@@ -25,7 +25,7 @@ Có 4 loại IP thông dụng:
 - **Zero - One Programming**: Các biến chỉ nhận giá trị 0 hoặc 1.
 
 # Integer Linear Programming
-
+kjggkvhv
 
 
 
